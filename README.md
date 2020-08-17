@@ -1,4 +1,4 @@
-#Задания с собеседований, найденные на просторе интернета.
+# Задания с собеседований, найденные на просторе интернета.
 
 ## [Task 1](https://github.com/RomanSchigolev/interview_tasks/blob/master/task_1/index.js)
 
