@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b7d85e9-54b8-4aca-b91d-57d3503eccca" name="Default Changelist" comment="" />
+    <list default="true" id="0b7d85e9-54b8-4aca-b91d-57d3503eccca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,14 +16,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/task_7/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+              <caret line="10" column="54" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="10" selection-end-column="54" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="425">
+                <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -46,16 +61,16 @@
         <option value="$PROJECT_DIR$/task_4/index.js" />
         <option value="$PROJECT_DIR$/task_5/index.js" />
         <option value="$PROJECT_DIR$/task_6/index.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/task_7/index.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-26" />
-    <option name="y" value="64" />
-    <option name="width" value="1242" />
-    <option name="height" value="890" />
+    <option name="x" value="7" />
+    <option name="y" value="35" />
+    <option name="width" value="1252" />
+    <option name="height" value="934" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -121,18 +136,18 @@
       <workItem from="1597650572582" duration="459000" />
       <workItem from="1597658306493" duration="5608000" />
       <workItem from="1597720744598" duration="432000" />
-      <workItem from="1597818099805" duration="4788000" />
+      <workItem from="1597818099805" duration="5071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11287000" />
+    <option name="totallyTimeSpent" value="11570000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="390" width="1242" height="911" extended-state="0" />
+    <frame x="7" y="35" width="1252" height="934" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.114617944" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.11449753" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -143,7 +158,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.27543426" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.27503017" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -202,16 +217,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="522">
-            <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task_6/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -225,10 +230,20 @@
     <entry file="file://$PROJECT_DIR$/task_7/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          <caret line="10" column="54" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="10" selection-end-column="54" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="425">
+            <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
