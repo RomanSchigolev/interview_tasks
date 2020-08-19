@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b7d85e9-54b8-4aca-b91d-57d3503eccca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="0b7d85e9-54b8-4aca-b91d-57d3503eccca" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,26 +13,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task_5/index.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/task_6/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            <state relative-caret-position="280">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="202">
-                <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -60,12 +46,13 @@
         <option value="$PROJECT_DIR$/task_4/index.js" />
         <option value="$PROJECT_DIR$/task_5/index.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/task_6/index.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="11" />
-    <option name="y" value="74" />
+    <option name="x" value="-12" />
+    <option name="y" value="42" />
     <option name="width" value="1242" />
     <option name="height" value="911" />
   </component>
@@ -82,6 +69,16 @@
               <item name="interview_tasks" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview_tasks" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="interview_tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="task_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview_tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview_tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="task_6" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -93,9 +90,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rshch_000\Desktop\Frontend(active_projects)\interview_tasks" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -122,15 +125,15 @@
       <workItem from="1597650572582" duration="459000" />
       <workItem from="1597658306493" duration="5608000" />
       <workItem from="1597720744598" duration="432000" />
-      <workItem from="1597818099805" duration="761000" />
+      <workItem from="1597818099805" duration="2457000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7260000" />
+    <option name="totallyTimeSpent" value="8956000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="74" width="1242" height="911" extended-state="0" />
+    <frame x="75" y="178" width="1242" height="911" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.114617944" />
@@ -193,6 +196,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="202">
+            <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/task_5/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -203,13 +216,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="202">
-            <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/task_6/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
