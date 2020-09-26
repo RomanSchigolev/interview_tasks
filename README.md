@@ -137,7 +137,7 @@
 
 ## [Task 8](https://github.com/RomanSchigolev/interview_tasks/blob/master/task_8/index.js)
 
-Flip the square matrix 90 degrees.
+Перевернуть квадратную матрицу на 90 градусов.
 
 **Пример:**
 
