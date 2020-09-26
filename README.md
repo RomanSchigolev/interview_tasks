@@ -131,3 +131,27 @@
 `1. [95, 92]`
 
 `2. []`
+
+
+---
+
+## [Task 8](https://github.com/RomanSchigolev/interview_tasks/blob/master/task_8/index.js)
+
+Flip the square matrix 90 degrees.
+
+**Пример:**
+
+*Вход:*
+
+```
+[[1, 2, 3],     
+ [4, 5, 6],
+ [7, 8, 9]]
+```
+
+*Выход:*
+```
+[[7, 4, 1],
+ [8, 5, 2],
+ [9, 6, 3]]
+```
