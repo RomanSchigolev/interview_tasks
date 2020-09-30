@@ -132,7 +132,6 @@
 
 `2. []`
 
-
 ---
 
 ## [Task 8](https://github.com/RomanSchigolev/interview_tasks/blob/master/task_8/index.js)
@@ -165,4 +164,17 @@
 **Пример:**
 ```
 fill(3, "a") => ["a", "a", "a"]
+```
+
+---
+
+## [Task 10](https://github.com/RomanSchigolev/interview_tasks/blob/master/task_10/index.js)
+
+Напишите функцию, которая разворачивает массив в обратном порядке. 
+
+Пожалуйста, не используйте array.reverse(), чтобы сделать задачу более интересной.
+
+**Пример:**
+```
+reverse([1, 2, 3]) => [3, 2, 1]]
 ```
