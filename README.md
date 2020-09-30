@@ -202,3 +202,14 @@ fromPairs([['a', 1], ['b', 2]]) => { a: 1, b: 2 }
 ```
 without([1, 2, 3, 1, 2], 1, 2) => [3]
 ```
+
+---
+
+## [Task 13](https://github.com/RomanSchigolev/interview_tasks/blob/master/task_13/index.js)
+
+Напишите функцию, которая убирает повторяющиеся значения.
+
+**Пример:**
+```
+unique([1, 2, 3, 1, 2]) => [1, 2, 3]
+```
