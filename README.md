@@ -191,3 +191,14 @@ reverse([1, 2, 3]) => [3, 2, 1]]
 ```
 fromPairs([['a', 1], ['b', 2]]) => { a: 1, b: 2 }
 ```
+
+---
+
+## [Task 12](https://github.com/RomanSchigolev/interview_tasks/blob/master/task_12/index.js)
+
+Напишите функцию, возвращает новый массив без предоставленных значений.
+
+**Пример:**
+```
+without([1, 2, 3, 1, 2], 1, 2) => [3]
+```
