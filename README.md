@@ -229,3 +229,28 @@ flatten([1, 'any [complex] string', null, function() {}, [1, 2, [3, '4'], 0], []
 // возвращает
 // [1, 'any [complex] string', null, function() {}, 1, 2, 3, '4', 0, { a: 1 }]
 ```
+
+---
+
+## [Task 15](https://github.com/RomanSchigolev/interview_tasks/blob/master/task_15/index.js)
+
+Напишите функцию get, которая получает объект и путь к вложенному свойству объекта и возвращает значение этого свойства (или undefined, если свойства не существует). 
+Третий, опциональный аргумент функции — значение по умолчанию, которое возвращается, если значения по указанному пути не существует.
+
+```js
+const obj = { 
+  a: { 
+    b: { 
+      c: 'd' 
+    },
+    e: 'f'
+  }
+};
+
+get(obj, 'a.b');   // { c : 'd' }
+get(obj, 'a.b.c'); // 'd'
+get(obj, 'a.e');   // 'f'
+get(obj, 'a.x.e'); // undefined
+get(obj, 'a.x.e', true); // true
+get(obj, 'a.x.e', 'My default value'); // My default value
+```
