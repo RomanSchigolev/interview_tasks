@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b7d85e9-54b8-4aca-b91d-57d3503eccca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="0b7d85e9-54b8-4aca-b91d-57d3503eccca" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,20 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="489">
-                <caret line="214" column="3" lean-forward="true" selection-start-line="214" selection-start-column="3" selection-end-line="214" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -126,16 +111,15 @@
       <workItem from="1597818099805" duration="5686000" />
       <workItem from="1601463069929" duration="2441000" />
       <workItem from="1601467420534" duration="901000" />
-      <workItem from="1601476675668" duration="1022000" />
+      <workItem from="1601476675668" duration="1072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16549000" />
+    <option name="totallyTimeSpent" value="16599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="11" width="1277" height="958" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.11380145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
