@@ -254,3 +254,11 @@ get(obj, 'a.x.e'); // undefined
 get(obj, 'a.x.e', true); // true
 get(obj, 'a.x.e', 'My default value'); // My default value
 ```
+
+---
+
+## [Task 16](https://github.com/RomanSchigolev/interview_tasks/blob/master/task_16/index.js)
+
+Необходимо написать функцию, которая принимает на вход натуральное число и возвращает количество цифр в нем.
+
+Ограничения: Нельзя использовать циклы и производные от них. И очевидным образом count.
