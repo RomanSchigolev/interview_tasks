@@ -1,6 +1,6 @@
-const flatten1 = list => Array.isArray(list) ? [].concat(...list.map(flatten1)) : list
+const flattenArr1 = (list) => (Array.isArray(list) ? [].concat(...list.map(flattenArr1)) : list);
 
-const flatten2 = list => {
+const flattenArr2 = (list) => {
   let array = list.slice();
   const result = [];
   while (array.length) {
@@ -10,8 +10,23 @@ const flatten2 = list => {
   return result.reverse();
 };
 
-console.log(flatten1([1, 'any [complex] string', null, function () { }, [1, 2, [3, '4'], 0], [], { a: 1 }]));
+const flattenArr3 = (list) => {
+  let result = [];
+  list.forEach((item) => {
+    if (Array.isArray(item)) {
+      result = [...result, ...flattenArr3(item)];
+    } else {
+      result = [...result, item];
+    }
+  });
+  return result;
+};
+
+console.log(flattenArr1([1, 'any [complex] string', null, function () {}, [1, 2, [3, '4'], 0], [], { a: 1 }]));
 // [1, 'any [complex] string', null, function() {}, 1, 2, 3, '4', 0, { a: 1 }]
 
-console.log(flatten2([1, 'any [complex] string', null, function () { }, [1, 2, [3, '4'], 0], [], { a: 1 }]));
+console.log(flattenArr2([1, 'any [complex] string', null, function () {}, [1, 2, [3, '4'], 0], [], { a: 1 }]));
+// [1, 'any [complex] string', null, function() {}, 1, 2, 3, '4', 0, { a: 1 }]
+
+console.log(flattenArr3([1, 'any [complex] string', null, function () {}, [1, 2, [3, '4'], 0], [], { a: 1 }]));
 // [1, 'any [complex] string', null, function() {}, 1, 2, 3, '4', 0, { a: 1 }]
